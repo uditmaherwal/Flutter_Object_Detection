@@ -1,6 +1,10 @@
-# detection
+# Object Detection
 
-A new Flutter project.
+Object detection in flutter using tflite plugin.
+
+# Overview
+
+
 
 ## Getting Started
 
